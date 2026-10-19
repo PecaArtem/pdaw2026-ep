@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: aqua;
+    height: 150px;
+}
+img.logo {
+    padding-left: 54px;
+    padding-top: 29px;
+}
+nav.group1 {
+    padding-left: 54px;
+    padding-top: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 75px;
+    text-decoration: none;
+}
+.first-section {
+    background-color: blueviolet;
+    height: 150px;
+}
+.last-section {
+    background-color: orange;
+    height: 150px;
+}
